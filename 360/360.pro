@@ -136,3 +136,5 @@ FILES_COPY_SRC = resource/video/360SafeVideo.wmv
         !exists($$dist_file):system($$COPY $$orig_file $$dist)
     }
 }
+
+
